@@ -737,5 +737,72 @@ const locales = {
             "strike": "Barrato",
             "clear": "Formattazione ripristinata"
         }
-    }
+    },
+    "zh_TW": {
+        "cCode": "zh_TW",
+        "language": "繁體中文",
+        "text": {
+            "channelNameLabel": "聊天室",
+            "scrollCheck": "啟用自動滾動動畫",
+            "fileSent": "發送了一些文件",
+            "attachmentTxt": "附件",
+            "privateMessages": "私人訊息",
+            "userId": "使用者ID"
+        },
+        "buttons": {
+            "clearLastMessages": "清除最新消息",
+            "editToken": "編輯Token(令牌)",
+            "refreshChat": "刷新聊天",
+            "changeLanguage": "更改語言(Change language)",
+            "send": "發送",
+            "leave": "離開服務器",
+            "invite": "邀請"
+        },
+        "infos": {
+            "owner": "擁有者",
+            "members": "成員",
+            "vChannels": "語音頻道",
+            "tChannels": "文字頻道",
+            "roles": "身分組",
+            "channels": "頻道",
+            "emojis": "表情符號"
+        },
+        "headings": {
+            "lastMessages": "最後一條消息",
+            "guildName": "資訊",
+            "autoScroll": "自動滾動",
+        },
+        "errors": {
+            "error": "錯誤",
+            "dm": "錯誤 : 私人訊息",
+            "emptyMsg": "錯誤 : 空白的訊息",
+            "missingPermissions": "錯誤 : 缺少一些權限"
+        },
+        "token": {
+            "prompt": "請輸入你的Discord bot Token(機器人令牌)",
+            "confirmation": "你確定嗎？",
+            "invalid": "未提供或是Token(令牌)無效"
+        },
+        "messageType": {
+            "serverJoin": "加入伺服器",
+            "pin": "釘選一條訊息",
+            "channelNews": "新增一個頻道消息",
+            "boost": "加成伺服器"
+        },
+        "fileType": {
+            "unknown": "未知",
+            "img": "圖片",
+            "doc": "文件",
+            "pdf": "pdf",
+            "video": "影片",
+            "audio": "音訊"
+        },
+        "formatting": {
+            "bold": "粗體",
+            "emphasis": "強調",
+            "underline": "下滑線",
+            "strike": "刪除線",
+            "clear": "清除格式"
+        }
+    },
 };
